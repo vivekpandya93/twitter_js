@@ -1,0 +1,22 @@
+{
+  "name": "twitter_js",
+  "version": "1.0.0",
+  "description": "twitter - express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekpandya93/twitter_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekpandya93/twitter_js/issues"
+  },
+  "homepage": "https://github.com/vivekpandya93/twitter_js#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
