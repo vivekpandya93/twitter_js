@@ -4,6 +4,7 @@
   "description": "twitter - express",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/vivekpandya93/twitter_js#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "morgan": "^1.6.1",
+    "nodemon": "^1.4.0"
   }
 }
